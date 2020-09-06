@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/SortingMinions/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/SortingMinions/static/js/main.cd75c797.chunk.js",
+    "main.js.map": "/SortingMinions/static/js/main.cd75c797.chunk.js.map",
+    "runtime-main.js": "/SortingMinions/static/js/runtime-main.fd3232e7.js",
+    "runtime-main.js.map": "/SortingMinions/static/js/runtime-main.fd3232e7.js.map",
+    "static/js/2.329e779e.chunk.js": "/SortingMinions/static/js/2.329e779e.chunk.js",
+    "static/js/2.329e779e.chunk.js.map": "/SortingMinions/static/js/2.329e779e.chunk.js.map",
+    "index.html": "/SortingMinions/index.html",
+    "precache-manifest.f3a18eedb6c10334de7015b712d7183a.js": "/SortingMinions/precache-manifest.f3a18eedb6c10334de7015b712d7183a.js",
+    "service-worker.js": "/SortingMinions/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/SortingMinions/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.329e779e.chunk.js.LICENSE.txt": "/SortingMinions/static/js/2.329e779e.chunk.js.LICENSE.txt",
+    "static/media/card_image.png": "/SortingMinions/static/media/card_image.e4106c88.png",
+    "static/media/card_image_five.png": "/SortingMinions/static/media/card_image_five.efc6e45e.png",
+    "static/media/card_image_four.png": "/SortingMinions/static/media/card_image_four.bee0dc59.png",
+    "static/media/card_image_three.png": "/SortingMinions/static/media/card_image_three.bf530bff.png",
+    "static/media/card_image_two.png": "/SortingMinions/static/media/card_image_two.66ed1b33.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd3232e7.js",
+    "static/js/2.329e779e.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.cd75c797.chunk.js"
+  ]
+}
