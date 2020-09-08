@@ -11,7 +11,7 @@ const useStyle = makeStyles({
         backgroundImage: theme => theme.darkMode ? `url(${banana})` : `url(${bananaYellow})`,
         backgroundSize: 40,
         backgroundRepeat: 'repeat-y|repeat-x',
-        backgroundColor: theme => theme.darkMode ? "#424242" : "#fff",
+        backgroundColor: theme => theme.darkMode ? "#222222" : "#fff",
         transition: 'all 200ms linear',
     }
 })

@@ -50,7 +50,7 @@ function SortingView({ arr, generateArr, sortArr, color, isSorting }) {
                 <BottomNavigation showLabels value="a">
                     <BottomNavigationAction label="Home" value="a" 
                     onClick={()=>history.replace('/SortingMinions/')}
-                    icon={<Home color={color} />} />
+                    icon={<Home/>} />
                     <BottomNavigationAction
                         label="Generate Array" value="a" icon={<LocalActivity />}
                         disabled={isSorting} onClick={generateArr} />
