@@ -49,7 +49,7 @@ function SortingView({ arr, generateArr, sortArr, color, isSorting }) {
             <Paper className={classes.bottomBar} elevation={10}>
                 <BottomNavigation showLabels value="a">
                     <BottomNavigationAction label="Home" value="a" 
-                    onClick={()=>history.replace('/')}
+                    onClick={()=>history.replace('/SortingMinions/')}
                     icon={<Home color={color} />} />
                     <BottomNavigationAction
                         label="Generate Array" value="a" icon={<LocalActivity />}

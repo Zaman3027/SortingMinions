@@ -7,8 +7,8 @@ import cardImageFour from '../assest/card_image_four.png'
 import cardImageFive from '../assest/card_image_five.png'
 import { useHistory } from 'react-router-dom'
 import { HocContext } from "./HOC";
-const algos = ["Bubble Sort", "Quick Sort", "Selection Sort"];
-const links = ['bubbleSort', 'quickSort', 'selectionSort'];
+const algos = ["Bubble Sort", "Quick Sort", "Heap Sort"];
+const links = ['bubbleSort', 'quickSort', 'heapSort'];
 const images = [cardImageOne, cardImageTwo, cardImageThree, cardImageFour, cardImageFive];
 const useStyle = makeStyles({
     root: {
@@ -54,7 +54,7 @@ export const Home = () => {
                 <Paper className={classes.paper}
                     key={index} elevation={5}
                     style={{ background: cardImageOne }}
-                    onClick={()=>history.push(links[index])}
+                    onClick={()=>history.push('/SortingMinions/'+links[index])}
                 >
                     <Typography variant='h6' color='inherit'>{val}</Typography>
                     <img className={classes.image} src={images[index]} alt="ima" />

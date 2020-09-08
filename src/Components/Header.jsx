@@ -24,7 +24,7 @@ function Header({ sort }) {
     const classes = useStyle();
     return (
         <div>
-            <AppBar position="static" elevation={0} className={classes.root} color="transparent" >
+            <AppBar position="static" elevation={1} className={classes.root} color="" >
                 <Toolbar variant='regular'  >
                     <Typography className={classes.headerText}
                         variant="h6" color="primary">{hocState.headerName}</Typography>

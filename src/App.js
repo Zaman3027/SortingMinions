@@ -9,6 +9,7 @@ import {
   Switch,
   Route,
 } from "react-router-dom";
+import { HeapSort } from './Components/HeapSort';
 function App() {
 
 
@@ -17,9 +18,10 @@ function App() {
       <HOCProvider>
         <Header />
         <Switch>
-          <Route path="/" exact component={Home} />
-          <Route path="/quickSort" exact component={QuickSort} />
-          <Route path="/bubbleSort" exact component={BubbleSort} />
+          <Route path="/SortingMinions/" exact component={Home} />
+          <Route path="/SortingMinions/quickSort" exact component={QuickSort} />
+          <Route path="/SortingMinions/bubbleSort" exact component={BubbleSort} />
+          <Route path="/SortingMinions/heapSort" exact component={HeapSort} />
         </Switch>
       </HOCProvider>
     </Router>
