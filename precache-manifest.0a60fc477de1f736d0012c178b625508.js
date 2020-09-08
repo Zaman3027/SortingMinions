@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "54c3a54c60c713b34a9ecd3439939178",
+    "revision": "6ac5b4d489b33292ee7e91a3d657acc5",
     "url": "/SortingMinions/index.html"
   },
   {
-    "revision": "3938e10db6fd45d648f2",
+    "revision": "a4d483b162e57d595f16",
     "url": "/SortingMinions/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SortingMinions/static/js/2.20bcd3cc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3938e10db6fd45d648f2",
-    "url": "/SortingMinions/static/js/main.327cde1f.chunk.js"
+    "revision": "a4d483b162e57d595f16",
+    "url": "/SortingMinions/static/js/main.c5e61fc8.chunk.js"
   },
   {
     "revision": "83c8f014c963b417a374",

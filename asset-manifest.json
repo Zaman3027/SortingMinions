@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/SortingMinions/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/SortingMinions/static/js/main.327cde1f.chunk.js",
-    "main.js.map": "/SortingMinions/static/js/main.327cde1f.chunk.js.map",
+    "main.js": "/SortingMinions/static/js/main.c5e61fc8.chunk.js",
+    "main.js.map": "/SortingMinions/static/js/main.c5e61fc8.chunk.js.map",
     "runtime-main.js": "/SortingMinions/static/js/runtime-main.fd3232e7.js",
     "runtime-main.js.map": "/SortingMinions/static/js/runtime-main.fd3232e7.js.map",
     "static/js/2.20bcd3cc.chunk.js": "/SortingMinions/static/js/2.20bcd3cc.chunk.js",
     "static/js/2.20bcd3cc.chunk.js.map": "/SortingMinions/static/js/2.20bcd3cc.chunk.js.map",
     "index.html": "/SortingMinions/index.html",
-    "precache-manifest.53e4d423bfc9d9d78fa3cbcf08747468.js": "/SortingMinions/precache-manifest.53e4d423bfc9d9d78fa3cbcf08747468.js",
+    "precache-manifest.0a60fc477de1f736d0012c178b625508.js": "/SortingMinions/precache-manifest.0a60fc477de1f736d0012c178b625508.js",
     "service-worker.js": "/SortingMinions/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/SortingMinions/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.20bcd3cc.chunk.js.LICENSE.txt": "/SortingMinions/static/js/2.20bcd3cc.chunk.js.LICENSE.txt",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.fd3232e7.js",
     "static/js/2.20bcd3cc.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.327cde1f.chunk.js"
+    "static/js/main.c5e61fc8.chunk.js"
   ]
 }
