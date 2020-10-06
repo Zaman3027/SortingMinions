@@ -1,7 +1,11 @@
 ## Live Demo
 [DEMO Link](https://zaman3027.github.io/SortingMinions)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Work to be done.
+1. MergeSort
+2. Insertion Sort
+3. Selection Sort
+**If you want to do sorting animation or want to add something cool create a issue and I will put assigne tag with hacktober tag and then you can create a pull request**
 
 ## Available Scripts
 
