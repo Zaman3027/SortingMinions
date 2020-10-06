@@ -1,5 +1,5 @@
 ## Live Demo
-[https://zaman3027.github.io/SortingMinions/](link)
+[DEMO Link](https://zaman3027.github.io/SortingMinions)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
