@@ -1,3 +1,7 @@
+## Description
+
+This is an app used to visualize different sorting algorithms bootstrapped using [Create-React-App](https://reactjs.org/docs/create-a-new-react-app.html)
+
 ## Live Demo
 [DEMO Link](https://zaman3027.github.io/SortingMinions)
 
@@ -8,7 +12,7 @@
 
 **If you want to do sorting animation or want to add something cool create a issue and I will put assigne tag with hacktober tag and then you can create a pull request**
 
-## Available Scripts
+## Project setup
 
 In the project directory, you can run:
 
@@ -51,26 +55,3 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
